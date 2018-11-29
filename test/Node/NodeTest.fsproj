@@ -7,6 +7,7 @@
     <Compile Include="Stream.Test.fs" />
     <Compile Include="ChildProcess.Test.fs" />
     <Compile Include="Http.Test.fs" />
+    <Compile Include="Intl.Test.fs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="../../Node/Fable.Import.Node.fsproj" />
